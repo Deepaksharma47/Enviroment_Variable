@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/",(req,res) =>{
-    res.send("<h1></h1>this app is running</h1>");
+    res.send("<h1>this app is running actually running</h1>");
 })
 
 const port = 3000;
