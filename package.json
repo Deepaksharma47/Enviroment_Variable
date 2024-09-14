@@ -1,0 +1,25 @@
+{
+  "name": "enviroment_variable",
+  "version": "1.0.0",
+  "description": "This is practice for enviroment variable",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepaksharma47/Enviroment_Variable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepaksharma47/Enviroment_Variable/issues"
+  },
+  "homepage": "https://github.com/Deepaksharma47/Enviroment_Variable#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
